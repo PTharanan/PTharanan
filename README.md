@@ -27,15 +27,15 @@
 
 ## 🛠️ Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,sublime,pycharm,eclipse,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,sublime,pycharm,eclipse,visualstudio,vscode" />
 </a>
 
 ## 📫 Contact
 
-- 📧 **Email**: [ptharanan@gmail.com](mailto:ptharanan@gmail.com)
-- 🔗 **GitHub**: [PTharanan](https://github.com/PTharanan)
+- Email: <p><a href="mailto:ptharanan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30px" alt="Mail"></a></p>
+- GitHub: <p><a href="https://github.com/PTharanan"><img src="https://skillicons.dev/icons?i=github" alt="github"></a></p>
 - 🌐 Portfolio: Tharanan Portfolio (https://tharanan.neocities.org/)
-- 💼 LinkedIn: Tharanan (www.linkedin.com/in/tharanan)
+- LinkedIn: <p><a href="https://www.linkedin.com/in/tharanan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a></p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PTharanan&style=flat-square&color=blue" alt="Profile Views" />
