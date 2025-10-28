@@ -32,10 +32,36 @@
 
 ## 📫 Contact
 
-- Email: <p><a href="mailto:ptharanan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30px" alt="Mail"></a></p>
-- GitHub: <p><a href="https://github.com/PTharanan"><img src="https://skillicons.dev/icons?i=github" alt="github"></a></p>
-- 🌐 Portfolio: Tharanan Portfolio (https://tharanan.neocities.org/)
-- LinkedIn: <p><a href="https://www.linkedin.com/in/tharanan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a></p>
+<!-- Email -->
+<p>
+  Email:
+  <a href="mailto:ptharanan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" width="30" style="vertical-align:middle; margin-left:6px;" />
+  </a>
+</p> </br> </br>
+
+<!-- GitHub -->
+<p>
+  GitHub:
+  <a href="https://github.com/PTharanan">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" style="vertical-align:middle; margin-left:6px;" />
+  </a>
+</p> </br> </br> 
+
+<!-- Portfolio -->
+<p>
+  🌐 Portfolio:
+  <a href="https://tharanan.neocities.org/">Tharanan Portfolio</a>
+</p> </br> </br>
+
+<!-- LinkedIn -->
+<p>
+  LinkedIn:
+  <a href="https://www.linkedin.com/in/tharanan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" style="vertical-align:middle; margin-left:6px;" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PTharanan&style=flat-square&color=blue" alt="Profile Views" />
