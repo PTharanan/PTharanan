@@ -40,7 +40,7 @@
          alt="Mail" width="30" 
          style="vertical-align:middle; margin-left:6px;" />
   </a>
-</p> </br> </br>
+</p> 
 
 <!-- GitHub -->
 <p>
@@ -48,13 +48,13 @@
   <a href="https://github.com/PTharanan">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" style="vertical-align:middle; margin-left:6px;" />
   </a>
-</p> </br> </br> 
+</p>
 
 <!-- Portfolio -->
 <p>
   🌐 Portfolio:
   <a href="https://tharanan.neocities.org/">Portfolio</a>
-</p> </br> </br>
+</p>
 
 <!-- LinkedIn -->
 <p>
