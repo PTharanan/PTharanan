@@ -35,11 +35,10 @@
 <!-- Email -->
 <p>
   Email:
-  <a href="mailto:ptharanan@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" 
-      alt="Mail" width="30" 
-      style="vertical-align:middle; margin-left:6px;" />
-  </a>
+<a href="mailto:ptharanan@gmail.com?subject=Hello%20Tharanan&body=Hi%20there!" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" style="vertical-align:middle; margin-left:6px;" />
+</a>
+
 </p> </br> </br>
 
 <!-- GitHub -->
