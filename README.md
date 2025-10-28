@@ -32,13 +32,14 @@
 
 ## 📫 Contact
 
-<!-- Email -->
-<p>
+<!-- Email --><p align="center">
   Email:
-<a href="mailto:ptharanan@gmail.com?subject=Hello%20Tharanan&body=Hi%20there!" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="30" style="vertical-align:middle; margin-left:6px;" />
-</a>
-
+  <a href="mailto:ptharanan@gmail.com">ptharanan@gmail.com</a>
+  <a href="mailto:ptharanan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" 
+         alt="Mail" width="30" 
+         style="vertical-align:middle; margin-left:6px;" />
+  </a>
 </p> </br> </br>
 
 <!-- GitHub -->
