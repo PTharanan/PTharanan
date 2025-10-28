@@ -35,8 +35,10 @@
 <!-- Email -->
 <p>
   Email:
-  <a href="mailto:ptharanan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" width="30" style="vertical-align:middle; margin-left:6px;" />
+  <a href="mailto:ptharanan@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" 
+      alt="Mail" width="30" 
+      style="vertical-align:middle; margin-left:6px;" />
   </a>
 </p> </br> </br>
 
@@ -51,7 +53,7 @@
 <!-- Portfolio -->
 <p>
   🌐 Portfolio:
-  <a href="https://tharanan.neocities.org/">Tharanan Portfolio</a>
+  <a href="https://tharanan.neocities.org/">Portfolio</a>
 </p> </br> </br>
 
 <!-- LinkedIn -->
