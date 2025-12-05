@@ -1,8 +1,8 @@
 # Hi 👋, I'm Tharanan
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTharanan&layout=compact&theme=dark&cache_seconds=1800&v=1" height="160" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -17,7 +17,7 @@
 
 ## ⚙️ Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,django" />
+  <img src="https://skillicons.dev/icons?i=angular,react,django" />
 </a>
 
 ## 🗄️ Databases
@@ -27,7 +27,7 @@
 
 ## 🛠️ Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,linux,sublime,pycharm,eclipse,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,sublime,pycharm,eclipse,visualstudio,vscode,postman" />
 </a>
 
 ## 📫 Contact
