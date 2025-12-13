@@ -1,8 +1,8 @@
 # Hi 👋, I'm Tharanan
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTharanan&layout=compact&theme=dark&cache_seconds=1800&v=1" height="160" alt="Top Languages" />
-</p> -->
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
