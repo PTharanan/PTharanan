@@ -1,6 +1,7 @@
-# Hi 👋, I'm Tharanan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharanan)](https://git.io/typing-svg)
+<hr>
 
-A passionate and results-driven Software Developer with experience in building web applications using modern frameworks and a strong foundation in multiple programming languages. I focus on creating clean, efficient, and scalable code.
+A passionate and results-driven Software Engineer with experience in building web applications using modern frameworks and a strong foundation in multiple programming languages. I focus on creating clean, efficient, and scalable code.
 
 ## 💻 Tech Stack & Expertise
 
