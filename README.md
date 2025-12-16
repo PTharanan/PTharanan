@@ -47,10 +47,10 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 | Platform | Contact Details |
 | :--- | :--- |
-| **Email** | <a href="mailto:ptharanan@gmail.com">ptharanan@gmail.com</a> <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" width="20" style="vertical-align:middle;" /> |
+| **Email** | <a href="mailto:ptharanan@gmail.com">ptharanan@gmail.com</a> <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" width="20" style="vertical-align:middle;" /> 
 | **GitHub** | <a href="https://github.com/PTharanan">PTharanan</a> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="20" style="vertical-align:middle;" /> |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/tharanan/">tharanan</a> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20" style="vertical-align:middle;" /> |
-| **Portfolio** | <a href="https://tharanan.neocities.org/">My Portfolio Website</a> 🌐 |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/tharanan/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+| **Portfolio** | <a href="https://tharanan.neocities.org/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=codecrafters"></a>  &nbsp;&nbsp;&nbsp;
 
 ---
 
