@@ -10,12 +10,12 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 ### Familiar Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,javascript,typescript,html,css,tailwind" alt="Languages: Python, C, C#, JavaScript, php, TypeScript, HTML, CSS, Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,javascript,php,typescript,html,css,tailwind" alt="Languages: Python, C, C#, JavaScript, php, TypeScript, HTML, CSS, Tailwind CSS" />
 </a>
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,react,django" alt="Frameworks: react, dotnet, Angular, Django" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,angular,django" alt="Frameworks: react, dotnet, Angular, Django" />
 </a>
 
 ### Database Management
@@ -25,7 +25,7 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 ### Development Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,linux,sublime,pycharm,eclipse,visualstudio,vscode,postman" alt="Tools: git, linux, VS Code, Postman, docker" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,docker" alt="Tools: git, linux, VS Code, Postman, docker" />
 </a>
 
 ---
