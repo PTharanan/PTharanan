@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharanan)](https://git.io/typing-svg)
-<hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Tharanan;Software+Engineer+%7C+Web+Developer;Passionate+About+Clean+%26+Scalable+Code)](https://git.io/typing-svg)
+
+---
 
 A passionate and results-driven Software Engineer with experience in building web applications using modern frameworks and a strong foundation in multiple programming languages. I focus on creating clean, efficient, and scalable code.
 
@@ -9,12 +10,12 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 ### Familiar Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,javascript,typescript,html,css,tailwind" alt="Languages: Python, C, C#, JavaScript, TypeScript, HTML, CSS, Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,javascript,typescript,html,css,tailwind" alt="Languages: Python, C, C#, JavaScript, php, TypeScript, HTML, CSS, Tailwind CSS" />
 </a>
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,react,django" alt="Frameworks: Angular, React, Django" />
+  <img src="https://skillicons.dev/icons?i=angular,react,django" alt="Frameworks: react, dotnet, Angular, Django" />
 </a>
 
 ### Database Management
@@ -24,7 +25,7 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 ### Development Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,linux,sublime,pycharm,eclipse,visualstudio,vscode,postman" alt="Tools: Kali, Linux, Sublime, PyCharm, Eclipse, Visual Studio, VS Code, Postman" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,sublime,pycharm,eclipse,visualstudio,vscode,postman" alt="Tools: git, linux, VS Code, Postman, docker" />
 </a>
 
 ---
@@ -39,6 +40,14 @@ My technical expertise spans across various languages, frameworks, and tools:
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophygh.kolioaris.xyz/?username=PTharanan&show_icons=true&theme=onestar" alt="GitHub Trophies" />
   </a>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PTharanan&bg_color=0d1117&color=58a6ff&line=9b05ff&point=00ff91&area=true&hide_border=true"/>
 </p>
 
 ---
