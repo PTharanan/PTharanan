@@ -15,7 +15,7 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,angular,django" alt="Frameworks: react, dotnet, Angular, Django" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,angular,django" alt="Frameworks: react, laravel, dotnet, Angular, Django" />
 </a>
 
 ### Database Management
@@ -41,19 +41,6 @@ My technical expertise spans across various languages, frameworks, and tools:
     <img src="https://trophygh.kolioaris.xyz/?username=PTharanan&show_icons=true&theme=onestar" alt="GitHub Trophies" />
   </a>
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PTharanan&bg_color=0d1117&color=58a6ff&line=9b05ff&point=00ff91&area=true&hide_border=true"/>
-</p>
-
-<!-- Metrics with Animation -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PTharanan&theme=radical" width="100%"/>
-
----
 
 ## 📫 Connect With Me
 
