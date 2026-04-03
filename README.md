@@ -15,7 +15,7 @@ My technical expertise spans across various languages, frameworks, and tools:
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,angular,django" alt="Frameworks: react, laravel, dotnet, Angular, Django" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,dotnet,angular,django" alt="Frameworks: react, laravel, dotnet, Angular, Django" />
 </a>
 
 ### Database Management
